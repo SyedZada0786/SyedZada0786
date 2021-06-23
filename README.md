@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @SyedZada0786
+- 👀 I’m interested in CSE & IT, Coding , Programming....
+- 🌱 I’m currently learning Computer science Engineeering....
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ....
+Instagram:- @Syedzada_0786
+Linked in:- SYED Arman Ahmad
+
+
+<!---
+SyedZada0786/SyedZada0786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
